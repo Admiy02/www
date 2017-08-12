@@ -101,7 +101,7 @@ msgstr "Ditulis pada"
 
 #: blog/templates/zinnia/_entry_detail_base.html:42
 msgid "Last update on"
-msgstr "Terakhir dikemaskini pada"
+msgstr "Terakhir dikemas kini pada"
 
 #: blog/templates/zinnia/_entry_detail_base.html:44
 #, python-format
@@ -115,12 +115,12 @@ msgstr "Pautan pendek"
 #: blog/templates/zinnia/_entry_detail_base.html:46
 #: homepage/templates/homepage-home.html:138
 msgid "Visit forum thread for this article"
-msgstr "Lawati bebenang forum berkenaan artikel ini"
+msgstr "Lawati jalur forum berkenaan rencana ini"
 
 #: blog/templates/zinnia/_entry_detail_base.html:46
 #: homepage/templates/homepage-home.html:138
 msgid "Forum thread"
-msgstr "Bebenang forum"
+msgstr "Jalur forum"
 
 #: blog/templates/zinnia/_entry_detail_base.html:63
 #, python-format
@@ -136,22 +136,22 @@ msgstr "Terus membaca"
 msgid ""
 "You can continue the discussion in the <a href=\"%(url)s\" title=\"Visit "
 "forum thread for this article\">forum thread</a> of this article."
-msgstr "Anda boleh terus ke perbincangan di dalam  <a href=\"%(url)s\" title=\"Visit forum thread for this article\">bebenang forum</a> berkenaan artikel ini."
+msgstr "Anda boleh terus ke perbincangan dalam  <a href=\"%(url)s\" title=\"Visit forum thread for this article\">jalur forum</a> berkenaan rencana ini."
 
 #: blog/templates/zinnia/_entry_detail_base.html:85
 #, python-format
 msgid ""
 "This article is number %(nth)s within the blog series\n"
 "    <a href=\"%(url)s\"><em>%(series)s</em></a>."
-msgstr "Artikel ini adalah bilangan ke %(nth)s di dalam siri blog\n    <a href=\"%(url)s\"><em>%(series)s</em></a>."
+msgstr "Rencana ini ialah bilangan ke %(nth)s di dalam siri blog\n    <a href=\"%(url)s\"><em>%(series)s</em></a>."
 
 #: blog/templates/zinnia/_entry_detail_base.html:90
 msgid "‹ Previous article in series"
-msgstr "‹ Artikel terdahulu dalam siri"
+msgstr "‹ Rencana terdahulu dalam siri"
 
 #: blog/templates/zinnia/_entry_detail_base.html:92
 msgid "Next article in series ›"
-msgstr "Atrikel berikutnya dalam siri ›"
+msgstr "Rencana berikutnya dalam siri ›"
 
 #: blog/templates/zinnia/_entry_detail_base.html:142
 msgid "Tags"
@@ -160,7 +160,7 @@ msgstr "Tag"
 #: blog/templates/zinnia/_entry_detail_base.html:146
 #, python-format
 msgid "Show all entries tagged by %(tag)s"
-msgstr "Tunjuk semua masukan yang ditag oleh %(tag)s"
+msgstr "Tunjukkan semua masukan yang ditag oleh %(tag)s"
 
 #: blog/templates/zinnia/_entry_detail_base.html:149
 msgid "No tags"
@@ -173,7 +173,7 @@ msgstr "Kategori"
 #: blog/templates/zinnia/_entry_detail_base.html:160
 #, python-format
 msgid "Show all entries in %(category)s"
-msgstr "Tunjuk semua masukan dalam %(category)s"
+msgstr "Tunjukkan semua masukan dalam %(category)s"
 
 #: blog/templates/zinnia/_entry_detail_base.html:163
 msgid "No categories"
@@ -298,24 +298,24 @@ msgstr "Sunting pengarang"
 
 #: blog/templates/zinnia/skeleton.html:5
 msgid "Latest news for Dolphin Emulator"
-msgstr "Berita terkini berkenaan Emulator Dolphin"
+msgstr "Berita terkini berkenaan Pelagak Dolphin"
 
 #: blog/templates/zinnia/skeleton.html:8
 msgid "Articles"
-msgstr "Artikel"
+msgstr "Rencana"
 
 #: blog/templates/zinnia/tags/search_form.html:18
 msgid ""
 "You can use - to exclude words or phrases, &quot;double quotes&quot; for "
 "exact phrases and the AND/OR boolean operators combined with parenthesis for"
 " complex queries."
-msgstr "Anda boleh guna - untuk asingkan perkataan atau frasa, &quot;dwi quotes&quot; untuk frasa sebenar dan operator boolean AND/OR yang bergabung dengan singkatan untuk kueri kompleks."
+msgstr "Anda boleh gunakan - untuk mengasingkan perkataan atau frasa, &quot;dwi quotes&quot; untuk frasa sebenar dan operator boolean AND/OR yang bergabung dengan singkatan untuk pertanyaan kompleks."
 
 #: compat/templates/compat-list.html:9
 msgid ""
 "The Dolphin Emulator compatibility list contains all the games we tested, "
 "sorted by how well they work on the emulator."
-msgstr "Senarai keserasian Emulator Dolphin mengandungi semua permainan yang kami telah uji, diisih tahap boleh dimain menggunakan emulator."
+msgstr "Senarai keserasian Pelagak Dolphin mengandungi semua permainan yang kami telah uji, diisih tahap boleh dimain menggunakan pelagak."
 
 #: compat/templates/compat-list.html:11
 #, python-format
@@ -328,7 +328,7 @@ msgstr "Bagaimana hendak membaca penarafan"
 
 #: compat/templates/compat-list.html:26
 msgid "5 out of 5"
-msgstr "5 dari 5"
+msgstr "5 daripada 5"
 
 #: compat/templates/compat-list.html:26
 msgid "<strong>Perfect</strong>: No issues at all!"
@@ -336,7 +336,7 @@ msgstr "<strong>Sempurna</strong>: Tiada masalah langsung!"
 
 #: compat/templates/compat-list.html:27
 msgid "4 out of 5"
-msgstr "4 dari 5"
+msgstr "4 daripada 5"
 
 #: compat/templates/compat-list.html:27
 msgid ""
@@ -346,7 +346,7 @@ msgstr "<strong>Boleh Dimain</strong>: Berjalan dengan baik, hanya masalah grafi
 
 #: compat/templates/compat-list.html:28
 msgid "3 out of 5"
-msgstr "3  dari 5"
+msgstr "3  daripada 5"
 
 #: compat/templates/compat-list.html:28
 msgid ""
@@ -356,17 +356,17 @@ msgstr "<strong>Boleh Mula</strong>: Boleh mula, mungkin dapat dimainkan, tetapi
 
 #: compat/templates/compat-list.html:29
 msgid "2 out of 5"
-msgstr "2 dari 5"
+msgstr "2 daripada 5"
 
 #: compat/templates/compat-list.html:29
 msgid ""
 "<strong>Intro/Menu</strong>: Hangs/crashes somewhere between booting and "
 "starting."
-msgstr "<strong>Intro/Menu</strong>: Sangkut/kerosakan berlaku diantara masa membut atau bermula."
+msgstr "<strong>Intro/Menu</strong>: Sangkut/kerosakan berlaku antara masa membut atau bermula."
 
 #: compat/templates/compat-list.html:30
 msgid "1 out of 5"
-msgstr "1 dari 5"
+msgstr "1 daripada 5"
 
 #: compat/templates/compat-list.html:30
 msgid "<strong>Broken</strong>: Crashes when booting."
@@ -403,7 +403,7 @@ msgstr "Keserasian"
 
 #: compat/templates/compat-list.html:67
 msgid "Last updated"
-msgstr "Terakhir dikemaskini"
+msgstr "Terakhir dikemas kini"
 
 #: compat/templates/compat-list.html:84
 msgid "Your query does not match any game."
@@ -449,7 +449,7 @@ msgstr "Undur ke senarai panduan"
 
 #: docs/templates/docs-guides-index.html:5
 msgid "See all the guides written by the Dolphin team about the emulator."
-msgstr "Lihat semua panduan yang ditulis oleh pasukan Dolphin mengenai emulator."
+msgstr "Lihat semua panduan yang ditulis oleh pasukan Dolphin mengenai pelagak ini."
 
 #: docs/templates/docs-guides-index.html:7 templates/_base.html:76
 msgid "Guides"
@@ -507,7 +507,7 @@ msgstr "Tiada keluaran pembangunan lagi"
 msgid ""
 "Download the latest version of the Dolphin Emulator (%(ver)s) from the "
 "official website."
-msgstr "Muat turun versi terkini Emulator Dolphin (%(ver)s) dari laman sesawang rasmi."
+msgstr "Muat turun versi terkini Pelagak Dolphin (%(ver)s) dari laman sesawang rasmi."
 
 #: downloads/templates/downloads-index.html:8
 #: downloads/templates/downloads-index.html:27 templates/_base.html:72
@@ -528,7 +528,7 @@ msgid ""
 "\n"
 "    <p>The development versions require the <a href=\"https://www.microsoft.com/en-us/download/details.aspx?id=48145\">64-bit Visual C++ redistributable for Visual Studio 2015</a>\n"
 "    to be installed.</p>\n"
-msgstr "\n    <p>Versi pembangunan dikeluarkan setiap kali pembangun membuat perubahan\n    pada Dolphin, beberapa kali setiap hari! Penggunaan versi pembangunan dapat\n    menikmati penambahbaikan terkini dan terbaik projek. Walaubagaimanapun\n    ia kurang diuji berbanding versi stabil emulator.</p>\n\n    <p>Versi pembangunan memerlukan <a href=\"https://www.microsoft.com/en-us/download/details.aspx?id=48145\">64-bit Visual C++ redistributable untuk Visual Studio 2015</a>\n    dipasang terlebih dahulu.</p>\n"
+msgstr "\n    <p>Versi pembangunan dikeluarkan setiap kali pembangun membuat perubahan\n    pada Dolphin, beberapa kali setiap hari! Penggunaan versi pembangunan dapat\n    menikmati penambahbaikan terkini dan terbaik projek. Walau bagaimanapun\n    ia kurang diuji berbanding versi stabil pelagak ini.</p>\n\n    <p>Versi pembangunan memerlukan <a href=\"https://www.microsoft.com/en-us/download/details.aspx?id=48145\">64-bit Visual C++ redistributable untuk Visual Studio 2015</a>\n    dipasang terlebih dahulu.</p>\n"
 
 #: downloads/templates/downloads-index.html:49
 msgid "Release Candidate versions"
@@ -539,7 +539,7 @@ msgid ""
 "\n"
 "    Release candidate versions are released to test an upcoming stable release of\n"
 "    Dolphin. They are generally more stable than the Development versions, but may still have known bugs.\n"
-msgstr "\nVersi calon keluar dikeluarkan untuk menguji keluaran stabil akan datang\nDolphin. Ia umumnya lebih stabil berbanding versi Pembangunan, tetapi masih\nterdapat pepijat yang dikenalpasti.\n"
+msgstr "\nVersi calon keluar dikeluarkan untuk menguji keluaran stabil akan datang\nDolphin. Ia umumnya lebih stabil berbanding versi Pembangunan, tetapi masih\nterdapat pepijat yang dikenal pasti.\n"
 
 #: downloads/templates/downloads-index.html:74
 msgid "Stable versions"
@@ -551,7 +551,7 @@ msgid ""
 "    Stable versions are released after a lot of testing to ensure emulation\n"
 "    performance and stability. However, since they are released less often,\n"
 "    they might be outdated and lacking some new features.\n"
-msgstr "\nVersi stabil dikeluarkan selepas banyak pengujian untuk memastikan\nprestasi emulasi dan kestabilan. Namun, semenjak ia kurang dikeluarkan,\nia mungkin telah lapuk dan kekurangan beberapa fitur baru.\n"
+msgstr "\nVersi stabil dikeluarkan selepas banyak pengujian untuk memastikan\nprestasi pelagakan dan kestabilan. Namun lantaran ia kurang dikeluarkan,\nia mungkin telah lapuk dan kekurangan beberapa ciri baharu.\n"
 
 #: downloads/templates/downloads-index.html:98
 msgid "No stable release yet"
@@ -559,7 +559,7 @@ msgstr "Tiada keluaran stabil lagi"
 
 #: downloads/templates/downloads-index.html:105
 msgid "Older Ubuntu (< 15.04) and users of other Linux distributions"
-msgstr "Ubuntu lebih lama (< 15.04) dan pengguna lain-lain distribusi Linux"
+msgstr "Ubuntu lebih lama (< 15.04) dan pengguna pengagihan-pengagihan Linux lain"
 
 #: downloads/templates/downloads-index.html:106
 msgid ""
@@ -572,7 +572,7 @@ msgstr "Pengguna Ubuntu 14.10 dan lebih lama boleh memasang PPA \n    untuk vers
 msgid ""
 "Users of other Linux distributions can look here to compile Dolphin: <a href=\"https://wiki.dolphin-emu.org/index.php?title=Building_Dolphin_on_Linux\">Building Dolphin on Linux</a>\n"
 "    "
-msgstr "Pengguna lain-lain distribusi Linux boleh dapatkan di sini untuk kompilkan Dolphin: <a href=\"https://wiki.dolphin-emu.org/index.php?title=Building_Dolphin_on_Linux\">Pembinaan Dolphin dalam Linux</a>\n    "
+msgstr "Pengguna pengagihan-pengagihan Linux lain boleh mendapatkannya di sini untuk mengkompilkan Dolphin: <a href=\"https://wiki.dolphin-emu.org/index.php?title=Building_Dolphin_on_Linux\">Pembinaan Dolphin dalam Linux</a>\n    "
 
 #: downloads/templates/downloads-index.html:114
 msgid "Source code"
@@ -592,7 +592,7 @@ msgid ""
 "\n"
 "    You can also <a href=\"%(GIT_BROWSE_URL)s\">browse the current version of the source code</a>.\n"
 "    "
-msgstr "\nAnda juga boleh <a href=\"%(GIT_BROWSE_URL)s\">layari versi semasa kod sumber</a>."
+msgstr "\nAnda juga boleh <a href=\"%(GIT_BROWSE_URL)s\">melayari versi semasa kod sumber</a>."
 
 #: downloads/templates/downloads-index.html:131
 msgid "Reporting bugs"
@@ -605,7 +605,7 @@ msgid ""
 "    For reporting bugs please go to <a href=\"%(ISSUES_URL)s\">the issue tracker</a>.\n"
 "    Before creating a new issue, make sure to try a recent development build and search the existing issues.\n"
 "    "
-msgstr "\nUntuk melaporkan pepijat sila pergi ke <a href=\"%(ISSUES_URL)s\">penjejak isu</a>.\nSebelum mewujudkan isu baharu, pastikan anda cuba binaan pembangunan terkini dan gelintar isu sedia ada."
+msgstr "\nUntuk melaporkan pepijat sila pergi ke <a href=\"%(ISSUES_URL)s\">penjejak isu</a>.\nSebelum mewujudkan isu baharu, pastikan anda mencuba binaan pembangunan terkini dan gelintar isu sedia ada."
 
 #: downloads/templates/downloads-list.html:5
 #, python-format
@@ -656,7 +656,7 @@ msgstr "Ubah keterangan"
 msgid ""
 "Official website of Dolphin, the GameCube and Wii emulator. Download the "
 "latest version (%(ver)s) now or ask questions on our forums for help."
-msgstr "Laman sesawang rasmi Dolphin, merupakan emulator GameCube dan Wii. Muat turun versi terkini (%(ver)s) sekarang atau tanya soalan di laman forum kami untuk dapatkan bantuan."
+msgstr "Laman sesawang rasmi Dolphin, iaitu pelagak GameCube dan Wii. Muat turun versi terkini (%(ver)s) sekarang atau tanya soalan di laman forum kami untuk mendapatkan bantuan."
 
 #: homepage/templates/homepage-home.html:14
 msgid "GameCube/Wii games on PC"
@@ -665,7 +665,7 @@ msgstr "Permainan GameCube/Wii dalam PC"
 #: homepage/templates/homepage-home.html:37 templates/_base.html:10
 #: templates/_base.html.py:68
 msgid "Dolphin Emulator"
-msgstr "Emulator Dolphin"
+msgstr "Pelagak Dolphin"
 
 #: homepage/templates/homepage-home.html:39
 msgid ""
@@ -676,7 +676,7 @@ msgid ""
 "            (1080p) with several enhancements: compatibility with all PC\n"
 "            controllers, turbo speed, networked multiplayer, and even more!\n"
 "            "
-msgstr "\n<b>Dolphin</b> ialah emulator untuk dua konsol permainan video\nNintendo: <b>GameCube</b> dan <b>Wii</b>. Ia membolehkan\npemain PC menikmati permainan untuk kedua-dua konsol dalam\n<b>HD penuh</b> (1080p) dengan beberapa penambahbaikan: \nkeserasian dengan semua pengawal PC, kelajuan turbo, pemain\nberbilang terangkai, dan banyak lagi!"
+msgstr "\n<b>Dolphin</b> ialah pelagak untuk dua konsol permainan video\nNintendo: <b>GameCube</b> dan <b>Wii</b>. Ia membolehkan\npemain PC menikmati permainan untuk kedua-dua konsol dalam\n<b>HD penuh</b> (1080p) dengan beberapa penambahbaikan: \nkeserasian dengan semua alat kawal PC, kelajuan turbo, pemain\nberbilang terangkai, dan banyak lagi!"
 
 #: homepage/templates/homepage-home.html:48
 #, python-format
@@ -685,11 +685,11 @@ msgstr "Muat turun %(last_release)s untuk Windows, Mac dan Linux »"
 
 #: homepage/templates/homepage-home.html:108
 msgid "RSS feed of the latest articles"
-msgstr "Suapan RSS untuk artikel terkini"
+msgstr "Suapan RSS untuk rencana terkini"
 
 #: homepage/templates/homepage-home.html:109
 msgid "Latest articles"
-msgstr "Artikel terkini"
+msgstr "Rencana terkini"
 
 #: homepage/templates/homepage-home.html:136
 #, python-format
@@ -698,17 +698,17 @@ msgstr "/ Sebahagian siri <a href=\"%(url)s\">%(name)s</a>"
 
 #: homepage/templates/homepage-home.html:143
 msgid "Read this article"
-msgstr "Baca artikel ini"
+msgstr "Baca rencana ini"
 
 #: homepage/templates/homepage-home.html:147
 msgid "No articles yet."
-msgstr "Tiada artikel lagi."
+msgstr "Tiada rencana lagi."
 
 #: media/templates/media-all.html:7
 msgid ""
 "View all the user-contributed screenshots of the Dolphin Emulator: GameCube "
 "and Wii games in HD."
-msgstr "Lihat semua cekupan skrin yang disumbang oleh pengguna Emulator Dolphin: Permainan GameCube dan Wii dalam HD."
+msgstr "Lihat semua cekupan skrin yang disumbang oleh pengguna Pelagak Dolphin: Permainan GameCube dan Wii dalam HD."
 
 #: media/templates/media-all.html:9
 msgid "Screenshots gallery"
@@ -724,7 +724,7 @@ msgstr "Halaman tidak ditemui"
 
 #: templates/404.html:10
 msgid "The URL you tried to access does not exist."
-msgstr "URL anda cuba capai tidak wujud."
+msgstr "URL yang anda cuba capai tidak wujud."
 
 #: templates/500.html:5 templates/500.html.py:8
 msgid "Internal Server Error"
@@ -734,11 +734,11 @@ msgstr "Ralat Pelayan Dalaman"
 msgid ""
 "There was an error while trying to access this page. Please refresh the page"
 " in a few seconds."
-msgstr "Terdapat ralat semasa cuba mencapai halaman ini. Sila segar semula halaman dalam beberapa saat."
+msgstr "Terdapat ralat semasa cubaan mencapai halaman ini. Sila segar semula halaman dalam beberapa saat."
 
 #: templates/_base.html:23
 msgid "Latest blog articles"
-msgstr "Artikel blog terkini"
+msgstr "Rencana blog terkini"
 
 #: templates/_base.html:73
 msgid "Blog"
@@ -771,4 +771,4 @@ msgid ""
 "            &copy; 2014 Dolphin Emulator Project -\n"
 "            <a href=\"%(WEBSITE_GIT_URL)s\">Website source code</a>\n"
 "            "
-msgstr "\n&copy; 2014 Projek Emulator Dolphin -\n<a href=\"%(WEBSITE_GIT_URL)s\">Laman sesawang kod sumber</a>"
+msgstr "\n&copy; 2014 Projek Pelagak Dolphin -\n<a href=\"%(WEBSITE_GIT_URL)s\">Laman sesawang kod sumber</a>"
